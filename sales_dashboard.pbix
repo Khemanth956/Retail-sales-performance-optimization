@@ -1,1 +1,22 @@
-Placeholder for Power BI dashboard
+
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+
+# List of image URLs
+image_urls = [
+    "https://github.com/Khemanth956/Retail-sales-performance-optimization/blob/main/dashboard_monthly_sales.png",
+    "https://github.com/Khemanth956/Retail-sales-performance-optimization/blob/main/dashboard_profitability.png.png",
+"https://github.com/Khemanth956/Retail-sales-performance-optimization/blob/main/dashboard_sales_by_region.png",
+"https://github.com/Khemanth956/Retail-sales-performance-optimization/blob/main/dashboard_top5_products.png"
+
+
+]
+
+# Display images
+for i, url in enumerate(image_urls, 1):
+    img = mpimg.imread(url)
+    plt.figure(figsize=(6,6))
+    plt.imshow(img)
+    plt.axis('off')
+    plt.title(f"Image {i}")
+    plt.show()
