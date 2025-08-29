@@ -62,17 +62,19 @@ The interactive Power BI dashboard is available in [dashboards/sales_dashboard.p
 ### 🔹 Preview Images
 Here are some snapshots of the dashboard for quick reference:
 
-![Revenue by Region](images/dashboard_region.png)
-Revenue performance broken down by different regions.
+## 📊 Dashboards
 
-![Top 5 Products](images/dashboard_products.png)
-Top performing products by sales volume.
+### Sales by Region
+![Sales by Region](dashboards/dashboard_sales_by_region.png)
 
-![Monthly Sales Trends](images/dashboard_trends.png)
-Sales trends tracked across months.
+### Top 5 Products by Sales
+![Top 5 Products](dashboards/dashboard_top5_products.png)
 
-![Profitability Analysis](images/dashboard_profit.png)
-Profit vs Discounts to analyze margins.
+### Monthly Sales Trends
+![Monthly Sales Trends](dashboards/dashboard_monthly_sales.png)
+
+### Profitability Analysis
+![Profitability](dashboards/dashboard_profitability.png)
 
 ---
 
