@@ -65,16 +65,16 @@ Here are some snapshots of the dashboard for quick reference:
 ## 📊 Dashboards
 
 ### Sales by Region
-![Sales by Region](dashboards/dashboard_sales_by_region.png)
+![Sales by Region](dashboard_sales_by_region.png)
 
 ### Top 5 Products by Sales
-![Top 5 Products](dashboards/dashboard_top5_products.png)
+![Top 5 Products](dashboard_top5_products.png)
 
 ### Monthly Sales Trends
-![Monthly Sales Trends](dashboards/dashboard_monthly_sales.png)
+![Monthly Sales Trends](dashboard_monthly_sales.png)
 
 ### Profitability Analysis
-![Profitability](dashboards/dashboard_profitability.png)
+![Profitability](dashboard_profitability.png)
 
 ---
 
