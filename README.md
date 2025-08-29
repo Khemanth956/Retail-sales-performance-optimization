@@ -50,19 +50,14 @@ Retail_Sales_Performance_Optimization/
 ---
 
 ## 📊 Dashboard
-Power BI dashboard is available in `dashboards/sales_dashboard.pbix` showing:
+Power BI dashboard is showing:
 - Revenue by Region
 - Top 5 Products
 - Monthly Sales Trends
 - Profitability Analysis
-- ## 📊 Dashboard Preview
-
-The interactive Power BI dashboard is available in [dashboards/sales_dashboard.pbix](./dashboards/sales_dashboard.pbix).
-
-### 🔹 Preview Images
+###📊 Dashboards 🔹 Preview Images
 Here are some snapshots of the dashboard for quick reference:
 
-## 📊 Dashboards
 
 ### Sales by Region
 ![Sales by Region](dashboard_sales_by_region.png)
